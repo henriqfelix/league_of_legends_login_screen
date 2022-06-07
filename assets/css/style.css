@@ -128,6 +128,11 @@ main {
   background-color: var(--black);
 }
 
+.login__icons .icons__button:nth-child(3) img {
+  width: 16.5px;
+  margin-top: -1px;
+}
+
 .login__label--checkbox {
   width: 100%;
   margin: 15px 0px 50px;
