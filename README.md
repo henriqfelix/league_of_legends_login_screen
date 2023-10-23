@@ -1,6 +1,6 @@
 # league_of_legends_login_screen
 
-## Login screen whitout user datas
+## Login screen without user datas
 
 ![screen-desktop](assets/to_readme/login-screen-1.png)
 
